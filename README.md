@@ -1,3 +1,7 @@
+# NOTE from 3559
+
+This code is a fork from team 254. It was copied to 3559 to serve as a learning tool/example for the team members of 3559.  All credit belongs to and is graciously given to team #254 for a beautiful example of code. Thank you for sharing it publicly.
+
 # FRC 2016
 
 The 2016 FRC robot code for Dropshot. Dropshot's code is written in Java and is based off of WPILib's Java control system.
